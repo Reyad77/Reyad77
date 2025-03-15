@@ -31,6 +31,15 @@
 
 ---
 
+
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reyad77/Reyad77/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reyad77/Reyad77/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Reyad77/Reyad77/output/github-snake.svg" />
+</picture>
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /></a>
@@ -54,3 +63,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyad77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
